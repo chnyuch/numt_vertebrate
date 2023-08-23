@@ -95,7 +95,6 @@ Bio.Phylo.PhyloXML
 ```
 wget https://github.com/chnyuch/numt_vertebrate.git
 ```
-### Instructions
 
 
 
