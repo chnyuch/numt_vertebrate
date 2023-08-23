@@ -98,8 +98,11 @@ wget https://github.com/chnyuch/numt_vertebrate.git
 
 ## Instructions
 Download the genomes, mito genomes and mito genes of focal species.
+
 Identifying the NUMTs and identifying the cNUMTs. 
+
 Calculating the dNdS to identify dcNUMTs.
+
 Clustering cNUMT and calculate the dNdS of clustered NUMTs and single NUMTs
 
   
